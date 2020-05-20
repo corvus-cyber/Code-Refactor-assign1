@@ -107,7 +107,7 @@ aside {
     background-color: #2589bd;
 }
 
-                        .benefit {
+                         #benefit {
                             margin-bottom: 32px;
                             color: #ffffff;
                         }
@@ -116,7 +116,8 @@ aside {
                             margin-bottom: 10px;
                             text-align: center;
                         }
-                        .benefit img {
+                        
+                        #benefit img {
                             display: block;
                             margin: 10px auto;
                             max-width: 150px;
