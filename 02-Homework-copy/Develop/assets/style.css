@@ -47,12 +47,12 @@ header {
                     color: #ffffff;
                     text-decoration: none;
                 }
-/*Formatting for the banner*/
+
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -66,7 +66,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-                    section{
+                    .landing-section{
                         margin-bottom: 20px;
                         padding: 50px;
                         height: 300px;
@@ -89,7 +89,7 @@ main {
                         margin-left: 25px;
                     }
 
-                    section img {
+                    .landing-section img {
                         max-height: 200px;
                     }
 
@@ -107,7 +107,7 @@ aside {
     background-color: #2589bd;
 }
 
-                         #benefit {
+                         .benefit {
                             margin-bottom: 32px;
                             color: #ffffff;
                         }
@@ -117,7 +117,7 @@ aside {
                             text-align: center;
                         }
                         
-                        #benefit img {
+                        .benefit img {
                             display: block;
                             margin: 10px auto;
                             max-width: 150px;

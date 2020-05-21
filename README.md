@@ -23,6 +23,8 @@ This project when originally started was riddled with semantic issues, was lacki
 
 * I also removed the id tags within the main body as I could not find the corresponding id tags within the css, which lead me to believe that they were useless. Turns out they were what was directing the hyperlinks within the nav bar, and I did not even notice the issue until I met up with my group.
 
+* The final issue was creating an alt-text for a banner that was being contained within the css. Coordinating with the tutor Matthew Chen, I decided to use the tag <aria-label> with the <role> equalling image to supply the alt-text. 
+
 # What I Learned 
 The most important lesson that I took away from this was that there is no one-way of handeling coding. There is definitely incorrect things you can do, such as using <nav> tags for everything instead of proper tags such as <header> and <footer>. That being said, when meeting with my group we went over the homework and it was fascinating to see all the different ways we went about solving this issue. I also learned that I HAVE to check over my work for tiny breaks or glitches, such as when I deleted the ID tags that attached to the hyperlinks. If my group hadn't caught that I would have turned in a faulty project
 
